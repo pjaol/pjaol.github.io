@@ -1,0 +1,12 @@
+{
+  "name": "Patrick O'Leary",
+  "short_name": "pjaol",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#07070a",
+  "theme_color": "#07070a",
+  "icons": [
+    { "src": "/assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
